@@ -1,7 +1,7 @@
 Gitlab-Hook
 ==========
 
-Gitlab WebHooks for automation Update source code.
+Gitlab WebHooks for automation pull your source code.
 
 <img src="https://img.shields.io/dub/l/vibe-d.svg" />
 
