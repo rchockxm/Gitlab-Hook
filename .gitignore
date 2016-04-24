@@ -1,0 +1,17 @@
+# Config
+/website/config.php
+
+# Windows image file caches
+thumbs.db
+enthumbs.db
+
+# IDE caches
+.metadata
+.project
+.launch
+
+# Archive file
+*.zip
+*.7z
+*.rar
+*.tar
